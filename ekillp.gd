@@ -1,3 +1,8 @@
+
+
+
+#The script is about enemy ai scriptau where enemy is using area 2D node for the detection and at changes the player for that you just need to create a group to your player which says which has a label player basically and when an image collides changes and collides with the player it prints you died on the terminal window and also a tree starts the scene 
+
 extends CharacterBody2D
 
 var speed = 40
